@@ -2,9 +2,9 @@
 Tags: woocommerce, store-closing-opening, store-manager, shop-manager, shop-closing-opening
 Contributors: sajjad67
 Author: Sajjad Hossain Sagor
-Tested up to: 6.9
+Tested up to: 7.0
 Requires at least: 5.6
-Stable tag: 2.0.3
+Stable tag: 2.0.4
 Requires PHP: 8.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -122,6 +122,8 @@ Just after installing the plugin, go to settings page and set the plugin setting
 30. table
 
 == Changelog ==
+= 2.0.4 =
+- Compatibility checkup for latest wp version 7.0
 = 2.0.3 =
 - Compatibility check for wp 6.9
 = 2.0.2 =
