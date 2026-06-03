@@ -701,7 +701,7 @@ class Store_Opening_Closing_Hours_Manager_Admin {
 	 */
 	public function declare_compatibility_with_wc_custom_order_tables() {
 		if ( class_exists( \Automattic\WooCommerce\Utilities\FeaturesUtil::class ) ) {
-			\Automattic\WooCommerce\Utilities\FeaturesUtil::declare_compatibility( 'custom_order_tables', __FILE__, true );
+			\Automattic\WooCommerce\Utilities\FeaturesUtil::declare_compatibility( 'custom_order_tables', STORE_OPENING_CLOSING_HOURS_MANAGER_PLUGIN_FILE, true );
 		}
 	}
 

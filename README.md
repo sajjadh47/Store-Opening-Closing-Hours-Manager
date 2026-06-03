@@ -214,6 +214,9 @@ Just after installing the plugin, go to settings page and set the plugin setting
 
 ## Changelog
 
+### 2.0.5
+* Added woocommerce High Performance Order Storage compatibility.
+
 ### 2.0.4
 - Compatibility checkup for latest wp version 7.0
 

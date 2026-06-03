@@ -44,6 +44,8 @@ define( 'STORE_OPENING_CLOSING_HOURS_MANAGER_PLUGIN_URL', plugin_dir_url( __FILE
 
 define( 'STORE_OPENING_CLOSING_HOURS_MANAGER_PLUGIN_BASENAME', plugin_basename( __FILE__ ) );
 
+define( 'STORE_OPENING_CLOSING_HOURS_MANAGER_PLUGIN_FILE', __FILE__ );
+
 /**
  * The code that runs during plugin activation.
  * This action is documented in includes/class-store-opening-closing-hours-manager-activator.php
